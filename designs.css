@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Quicksand:wght@600&family=Roboto+Flex:opsz,wght@8..144,500&family=Roboto+Mono:ital,wght@1,500&display=swap');
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E2E8F0;
+}
